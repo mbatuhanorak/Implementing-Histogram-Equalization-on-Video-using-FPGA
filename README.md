@@ -19,6 +19,8 @@ After processing the image and video data using FPGA-accelerated histogram equal
 
 Results:
 MATLAB reads the processed data from the text files and reconstructs the images and videos. The final results demonstrate the effectiveness of FPGA-accelerated histogram equalization, achieving real-time processing even for high-resolution images and videos, and significantly improving their quality compared to traditional CPU-based implementations.
+![resim](https://github.com/mbatuhanorak/Implementing-Histogram-Equalization-on-Video-using-FPGA/assets/63021742/1aa60b48-1f86-4626-ac28-43f5a4463591)
+
 
 Discussion:
 The FPGA-based approach demonstrated superior performance in histogram equalization for both image and video data compared to traditional CPU-based methods. The parallel processing capabilities and high-speed data handling of FPGAs enable real-time processing of high-resolution images and videos, making it suitable for various applications, such as medical imaging and surveillance.
